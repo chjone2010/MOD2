@@ -1,6 +1,7 @@
-* CSS Style Sheet *
+*Styles*
 * {
   box-sizing: border-box;
+  width: 100%;
 }
 
 h1 {
